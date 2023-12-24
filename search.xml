@@ -112,12 +112,6 @@
         <content type="html"><![CDATA[<p>这是我的第一篇文章</p>]]></content>
       
       
-      <categories>
-          
-          <category> 随笔 </category>
-          
-      </categories>
-      
       
     </entry>
     
@@ -130,6 +124,12 @@
       
         <content type="html"><![CDATA[<p>这是我的第一篇文章</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
       
       
     </entry>
