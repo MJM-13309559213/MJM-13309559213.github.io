@@ -37,12 +37,6 @@
       </categories>
       
       
-        <tags>
-            
-            <tag> 标签1 </tag>
-            
-        </tags>
-      
     </entry>
     
     
@@ -61,6 +55,31 @@
           
       </categories>
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/post/5c2fafc7.html"/>
+      <url>/post/5c2fafc7.html</url>
+      
+        <content type="html"><![CDATA[<p>这是我的第一篇文章</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -105,38 +124,6 @@
     
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/post/5c2fafc7.html"/>
-      <url>/post/5c2fafc7.html</url>
-      
-        <content type="html"><![CDATA[<p>这是我的第一篇文章</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一篇文章</title>
-      <link href="/post/5c2fafc7.html"/>
-      <url>/post/5c2fafc7.html</url>
-      
-        <content type="html"><![CDATA[<p>这是我的第一篇文章</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 随笔 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>第四篇文章</title>
       <link href="/post/7ba7061.html"/>
       <url>/post/7ba7061.html</url>
@@ -149,6 +136,19 @@
           <category> 随笔 </category>
           
       </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/post/5c2fafc7.html"/>
+      <url>/post/5c2fafc7.html</url>
+      
+        <content type="html"><![CDATA[<p>这是我的第一篇文章</p>]]></content>
+      
       
       
     </entry>
