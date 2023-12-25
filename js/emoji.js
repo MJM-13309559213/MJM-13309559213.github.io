@@ -69,7 +69,7 @@ document.addEventListener("copy", function () {
             data: function () {
                 this.$notify({
                     title: "哎嘿！复制成功🍬",
-                    message: "若要转载最好保留原文链接哦，你是最棒的哦！",
+                    message: "若要转载最好保留原文链接哦！",
                     position: 'top-left',
                     offset: 50,
                     showClose: true,
