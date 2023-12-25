@@ -48,13 +48,13 @@
 }
 /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
 .menus_items .menus_item:nth-child(2) .menus_item_child {
-  left: -85px;
+  left: -123px;
 }
 .menus_items .menus_item:nth-child(3) .menus_item_child {
   left: -258px;
 }
 .menus_items .menus_item:nth-child(4) .menus_item_child {
-  left: -58px;
+  left: -50px;
 }
 .menus_items .menus_item:nth-child(5) .menus_item_child {
   left: -85px;
